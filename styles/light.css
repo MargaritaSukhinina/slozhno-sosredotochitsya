@@ -11,6 +11,7 @@
   --section-title-color: #353430;
   --content-title-color: #353430;
   --text-color: #353430;
+  --hover-color: rgba(50, 49, 45, 0.4);
   --main-image: url(../images/cover-image-light.png);
 }
 
@@ -26,6 +27,7 @@
     --section-title-color: #353430;
     --content-title-color: #353430;
     --text-color: #353430;
+    --hover-color: rgba(50, 49, 45, 0.4);
     --main-image: url(../images/cover-image-light.png);
   }
 
